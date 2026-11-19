@@ -1,0 +1,5 @@
+{
+  "name": "paper-look-theme",
+  "owner": { "name": "benbees27" },
+  "plugins": [{ "name": "paper-look-theme", "source": "./" }]
+}
